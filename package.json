@@ -1,0 +1,26 @@
+{
+  "name": "booking_fractal_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olexandr25/Booking_fractal_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olexandr25/Booking_fractal_3/issues"
+  },
+  "homepage": "https://github.com/Olexandr25/Booking_fractal_3#readme",
+  "dependencies": {
+    "booking-config-fractal3": "^1.0.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.35.2"
+  }
+}
