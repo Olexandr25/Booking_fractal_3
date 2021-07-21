@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Olexandr25/Booking_fractal_3#readme",
   "dependencies": {
-    "booking-config-fractal3": "^1.0.0",
+    "booking-config-fractal3": "^1.0.1",
     "parcel-bundler": "^1.12.5"
   },
   "devDependencies": {
